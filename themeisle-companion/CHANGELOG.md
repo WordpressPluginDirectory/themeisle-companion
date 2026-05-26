@@ -1,3 +1,24 @@
+##### [Version 3.0.6](https://github.com/Codeinwp/themeisle-companion/compare/v3.0.5...v3.0.6) (2026-05-25)
+
+- Updated dependencies
+
+##### [Version 3.0.5](https://github.com/Codeinwp/themeisle-companion/compare/v3.0.4...v3.0.5) (2025-12-05)
+
+- Fixed issue related to Elementor widgets module causing error in Hestia theme
+
+##### [Version 3.0.4](https://github.com/Codeinwp/themeisle-companion/compare/v3.0.3...v3.0.4) (2025-12-04)
+
+- Fixed pagination of Grid Post Type
+
+##### [Version 3.0.3](https://github.com/Codeinwp/themeisle-companion/compare/v3.0.2...v3.0.3) (2025-11-03)
+
+- Enhanced security
+
+##### [Version 3.0.2](https://github.com/Codeinwp/themeisle-companion/compare/v3.0.1...v3.0.2) (2025-10-01)
+
+- Enhanced security
+- Updated dependencies
+
 ##### [Version 3.0.1](https://github.com/Codeinwp/themeisle-companion/compare/v3.0.0...v3.0.1) (2025-08-27)
 
 - Enhanced security
